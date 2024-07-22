@@ -8,6 +8,7 @@ function Fifth(){
         return <h1>False statement</h1>
     }
         */
+        
     return(
         <div>
             {b?<h1>Truee stmt</h1>:<h1>False</h1>}
@@ -16,3 +17,4 @@ function Fifth(){
 
 }
 export default Fifth;
+
